@@ -8,7 +8,9 @@ This is open to any suggestions and community development. ;) {Within reason}
 - [x] Implement New Logo
 - [x] add some styling
 - [x] add information
+- [x] start working in <span style="color:lightgreen;">Nuxt</span>
+- [ ] add footer <span style="color:lightgreen;">Nuxt</span>
+- [ ] get images to work <span style="color:lightgreen;">Nuxt</span>
 - [ ] Adding new content and a bit of house keeping
 - [ ] Adding a new section
 - [ ] Get some nice styling and css animations
-
