@@ -151,6 +151,11 @@ input::-moz-focus-inner {
   padding: 0;
 }
 
+#header h1 a img{
+  max-width: 1.25%;
+  margin-right: 0.08%;
+}
+
 input,
 select,
 textarea {
@@ -194,7 +199,7 @@ body {
       rgba(46, 49, 65, 0.8),
       rgba(46, 49, 65, 0.8)
     ),
-    url("../../images/bg.jpg");
+    url("../../images/bg.png");
   background-size: auto, cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
@@ -253,6 +258,13 @@ textarea {
   }
 }
 
+@media screen and (max-width: 768px){
+  #header h1 a img{
+    width: 2%;
+    margin-right: 0.2%;
+  }
+}
+
 @media screen and (max-width: 736px) {
   body,
   input,
@@ -268,6 +280,12 @@ textarea {
   select,
   textarea {
     font-size: 12pt;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #header h1 a img{
+    width: 4%;
   }
 }
 
@@ -3096,14 +3114,12 @@ button:disabled,
 /* Features */
 
 .features {
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  -moz-flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+  display: -moz-grid;
+  display: -webkit-grid;
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 60px;
+  grid-template-columns: auto auto auto;
   margin: 0 0 2em 0;
 }
 
@@ -3112,11 +3128,7 @@ button:disabled,
   background-color: #353849;
   border-radius: 5px;
   margin: 1.5em 3em 1.5em 0;
-  width: calc(50% - 1.5em);
-}
-
-.features article:nth-child(2n) {
-  margin-right: 0;
+  width: calc(100% - 0.5em);
 }
 
 .features article .image {
@@ -3174,7 +3186,7 @@ button:disabled,
   -webkit-transition: background-color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out;
-  background-color: rgba(53, 56, 73, 0.95);
+  background-color: rgba(75,63,77,0.95);
   height: 3.5em;
   left: 0;
   line-height: 3.5em;
@@ -3569,7 +3581,7 @@ body.is-menu-visible #menu .inner {
         rgba(46, 49, 65, 0.8),
         rgba(46, 49, 65, 0.8)
       ),
-      url("../../images/bg.jpg");
+      url("../../images/bg.png");
     background-size: auto, cover;
     background-position: center, center;
     margin-bottom: -6.5em;
@@ -3678,7 +3690,7 @@ body.is-preload #banner p {
         rgba(46, 49, 65, 0.8),
         rgba(46, 49, 65, 0.8)
       ),
-      url("../../images/bg.jpg");
+      url("../../images/bg.png");
     background-size: auto, cover;
     background-position: center, 0% 30%;
     margin-bottom: -6.5em;
@@ -4172,7 +4184,7 @@ body.is-preload #banner p {
         rgba(46, 49, 65, 0.8),
         rgba(46, 49, 65, 0.8)
       ),
-      url("../../images/bg.jpg");
+      url("../../images/bg.png");
     background-size: auto, cover;
     background-position: center, center;
     margin-top: -6.5em;
