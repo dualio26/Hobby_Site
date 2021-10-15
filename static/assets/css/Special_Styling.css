@@ -1,0 +1,8 @@
+.features article{ 
+    transition: all .1s ease-in-out; 
+}
+.features article:hover { 
+    transform: scale(1.3);
+    border-radius: 5px 5px 5px 5px;
+    z-index: 1000;
+}
