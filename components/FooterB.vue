@@ -32,7 +32,7 @@
             </li>
             <li class="icon brands fa-discord">
               <a href="https://discordapp.com/users/AdequateLumps🍑#7244/"
-                >AdequateLumps🍑#7244</a
+                >AdequateLumps🍑#7244Hrmlp</a
               >
             </li>
             <li class="icon brands fa-reddit">
