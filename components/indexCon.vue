@@ -20,7 +20,7 @@
         <!-- One -->
         <section id="one" class="wrapper spotlight style0">
           <div class="inner">
-            <a href="#" class="image"><img src="images/pic00.jpg" alt="" /></a>
+            <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
             <div class="content">
               <h1 class="major">3D Printing</h2>
               <p style="padding: 1% 1%;">
@@ -39,7 +39,7 @@
         <!-- Two -->
         <section id="two" class="wrapper alt spotlight style1">
           <div class="inner">
-            <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+            <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
             <div class="content">
               <h1 class="major">Design Work</h2>
               <p style="padding: 1% 1%;">
@@ -57,7 +57,7 @@
         <!-- Three -->
         <section id="three" class="wrapper spotlight style2">
           <div class="inner">
-            <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+            <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
             <div class="content">
               <h1 class="major">Electrician Log</h2>
               <p style="padding: 1% 1%;">
