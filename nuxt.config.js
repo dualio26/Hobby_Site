@@ -67,6 +67,6 @@ export default {
   },
   server:{
     host: '0',
-    target: 'static'
-  }
+  },
+  target: 'static'
 }
