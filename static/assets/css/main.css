@@ -156,6 +156,14 @@ input::-moz-focus-inner {
   margin-right: 0.08%;
 }
 
+.bottomNav{
+  display: grid;
+  grid-template-columns: auto auto;
+  display: -moz-grid;
+}
+
+
+
 input,
 select,
 textarea {
@@ -4145,6 +4153,7 @@ body.is-preload #banner p {
 
 #footer .inner .contact {
   width: calc(50% - 1.5em);
+  padding-top: 3%;
 }
 
 #footer .inner .copyright {
@@ -4174,6 +4183,11 @@ body.is-preload #banner p {
 
 #footer .inner .copyright li a {
   color: inherit;
+}
+
+.icon-left{
+  float: right;
+  opacity: 1;
 }
 
 @media screen and (max-width: 1280px) {

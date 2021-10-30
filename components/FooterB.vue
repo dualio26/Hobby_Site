@@ -3,7 +3,7 @@
       <section id="footer">
         <div class="inner">
           <h2 class="major">Get in touch</h2>
-          <p>
+          <p style="padding: 2% 1%;">
             Get in touch if you want some art work done or a model designed for
             game or 3d printing.
           </p>
@@ -37,7 +37,7 @@
             </li>
             <li class="icon brands fa-reddit">
               <a href="https://www.reddit.com/u/blazingbuns943"
-                >u/blazingbuns943</a
+                >u/blazzingbuns943</a
               >
             </li>
             <li class="icon brands fa-instagram">
@@ -50,7 +50,10 @@
             </li>
           </ul>
           <h2 class="major" style="margin-top: 1%"></h2>
-          <p style="opacity: 0.1">Plz be nice</p>
+          <div class="bottomNav">
+            <p style="opacity: 0.2">Plz be nice </p>
+            <NuxtLink to="/"><i class="icon solid fa-home icon-left" style="opacity:1;"/></NuxtLink>
+          </div>
         </div>
       </section>
 </template>
