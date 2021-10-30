@@ -8,9 +8,7 @@
           </div>
           <h1>Welcome to AdquateZone</h2>
           <p>
-            and yes I do know that it is spelt wrong<i
-              class="fas fa-level-up-alt"
-            ></i>
+            and yes I do know that it is spelt wrong
           </p>
         </div>
       </section>
