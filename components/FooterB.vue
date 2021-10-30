@@ -52,7 +52,7 @@
           <h2 class="major" style="margin-top: 1%"></h2>
           <div class="bottomNav">
             <p style="opacity: 0.2">Plz be nice </p>
-            <NuxtLink to="/"><i class="icon solid fa-home icon-left" style="opacity:1;"/></NuxtLink>
+            <NuxtLink to="/"><i class="icon solid fa-home icon-left" style="opacity:1;border:none"/></NuxtLink>
           </div>
         </div>
       </section>
