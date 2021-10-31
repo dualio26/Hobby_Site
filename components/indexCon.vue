@@ -24,7 +24,7 @@
               <p style="padding: 1% 1%;">
                 Here you will find all my 3D printing escapades through using my Photon S Pritner<br />
                 I have a <a href="https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-s?variant=30084941119548">Photon S LCD</a> printer I aquiered off
-                <a href="https://kiwi2d.co.nz">Kiwi3D</a>.<br />More information
+                <a href="https://kiwi3d.co.nz">Kiwi3D</a>.<br />More information
                 can be found in the <NuxtLink to="/sSheet">Equipment</NuxtLink> spec
                 sheet on this website.
               </p>
