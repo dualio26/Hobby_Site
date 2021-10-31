@@ -21,7 +21,7 @@
             <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
             <div class="content">
               <h1 class="major">3D Printing</h1>
-              <p style="padding: 1% 1%;">
+              <p style="padding: 1%;">
                 Here you will find all my 3D printing escapades through using my Photon S Pritner<br />
                 I have a <a href="https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-s?variant=30084941119548">Photon S LCD</a> printer I aquiered off
                 <a href="https://kiwi3d.co.nz">Kiwi3D</a>.<br />More information
@@ -46,7 +46,7 @@
 					<li>Art work from 2 years of design in highschool on Photoshop and Illustrator. <i style="opacity: 0.2;">{Torture}</i></li>
 				</ul>
               </p>
-              <NuxtLink to="/dWork" class="special">See more</NuxtLink>
+              <a href="/dWork" class="special">See more</a>
             </div>
           </div>
         </section>

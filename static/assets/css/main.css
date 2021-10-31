@@ -3139,6 +3139,19 @@ button:disabled,
   width: calc(100% - 0.5em);
 }
 
+.features article.blender{
+  background-color: #ad4e22;
+}
+
+.features article.printing{
+  background-color: #8f157f;
+}
+
+.B{
+  color: #ad4e22;
+}
+
+
 .features article .image {
   border-radius: 5px 5px 0 0;
   display: block;
@@ -3165,7 +3178,7 @@ button:disabled,
   .features article {
     padding: 1.5em 1.5em 0.1em 1.5em;
     margin: 0.875em 1.75em 0.875em 0;
-    width: calc(50% - 0.875em - 1px);
+    width: calc(100%);
   }
 
   .features article .image {
