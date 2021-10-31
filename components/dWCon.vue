@@ -16,7 +16,7 @@
           <section class="features">
             <article>
               <a href="#" class="image"
-                ><img src="images/pic04.jpg" alt=""
+                ><img src="images2/A1ZReKGaL-L._AC_SL1500_.png" alt=""
               /></a>
               <h3 class="major">Sed feugiat lorem</h3>
               <p style="padding: 4% 4%;">
@@ -26,7 +26,7 @@
             </article>
             <article>
               <a href="#" class="image"
-                ><img src="images/pic05.jpg" alt=""
+                ><img src="images2/pic05.jpg" alt=""
               /></a>
               <h3 class="major">Nisl placerat</h3>
               <p style="padding: 4% 4%;">
