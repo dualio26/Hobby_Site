@@ -28,7 +28,7 @@
       </form>
       <ul class="contact">
         <li class="icon brands fa-cloudscale">
-          <NuxtLink to="/sSheet">Setup</NuxtLink>
+          <a href="/sSheet">Setup</a>
         </li>
         <li class="icon brands fa-discord">
           <a

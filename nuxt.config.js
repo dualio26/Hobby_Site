@@ -11,7 +11,6 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: '/assets/css/main.css' },
-      { rel: 'stylesheet', href: '/assets/css/Special_Styling.css' },
       { rel: 'stylesheet', href: '/assets/css/noscript.css' },
       { rel: 'stylesheet', href: '/assets/css/fontawesome-all.min.css' },
       { rel: 'stylesheet', href: 'https://pro.fontawesome.com/releases/v5.4.0/css/all.css' }
