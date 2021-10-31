@@ -14,7 +14,7 @@ export default {
       { rel: 'stylesheet', href: '/assets/css/Special_Styling.css' },
       { rel: 'stylesheet', href: '/assets/css/noscript.css' },
       { rel: 'stylesheet', href: '/assets/css/fontawesome-all.min.css' },
-      { rel: 'stylesheet', href: 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css' }
+      { rel: 'stylesheet', href: 'https://pro.fontawesome.com/releases/v5.0.0/css/all.css' }
     ]
   },
 

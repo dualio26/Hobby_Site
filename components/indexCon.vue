@@ -6,7 +6,7 @@
           <div class="logo">
             <img src="images/Q.svg" alt="Q" style="width: 3%; fill: white" />
           </div>
-          <h1>Welcome to AdquateZone</h2>
+          <h1>Welcome to AdquateZone</h1>
           <p>
             and yes I do know that it is spelt wrong
           </p>
@@ -20,13 +20,12 @@
           <div class="inner">
             <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
             <div class="content">
-              <h1 class="major">3D Printing</h2>
+              <h1 class="major">3D Printing</h1>
               <p style="padding: 1% 1%;">
-                Here you will find all my 2D printing escapades through using a
-                2D printer:<br />
-                I have a Creality resin LCD printer I aquiered off
+                Here you will find all my 3D printing escapades through using my Photon S Pritner<br />
+                I have a <a href="https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-s?variant=30084941119548">Photon S LCD</a> printer I aquiered off
                 <a href="https://kiwi2d.co.nz">Kiwi3D</a>.<br />More information
-                can be found in the <a href="sSheet.html">Equipment</a> spec
+                can be found in the <NuxtLink to="/sSheet">Equipment</NuxtLink> spec
                 sheet on this website.
               </p>
               <a href="#" class="special">See more</a>
@@ -37,9 +36,9 @@
         <!-- Two -->
         <section id="two" class="wrapper alt spotlight style1">
           <div class="inner">
-            <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+            <a href="#" class="image"><img src="images/pic02.png" alt="" /></a>
             <div class="content">
-              <h1 class="major">Design Work</h2>
+              <h1 class="major">Design Work</h1>
               <p style="padding: 1% 1%;">
                 This is where I will have all my: 
 				<ul>
@@ -57,7 +56,7 @@
           <div class="inner">
             <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
             <div class="content">
-              <h1 class="major">Electrician Log</h2>
+              <h1 class="major">Electrician Log</h1>
               <p style="padding: 1% 1%;">
                 See if this works out but wanna be an electrician,<br> if that doesnt pan out it will be filled with practical electronics and circuit projects.
               </p>

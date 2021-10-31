@@ -27,8 +27,8 @@
         </ul>
       </form>
       <ul class="contact">
-        <li class="icon solid fa-envelope">
-          <a href="mailto:eamongreen59@gmail.com">eamongreen59@gmail.com</a>
+        <li class="icon brands fa-cloudscale">
+          <NuxtLink to="/sSheet">Setup</NuxtLink>
         </li>
         <li class="icon brands fa-discord">
           <a
